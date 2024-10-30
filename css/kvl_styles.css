@@ -1,0 +1,17 @@
+/* USE !important */
+/* Apply styles to options-page AND front-page */
+.kvl-selectpicker {
+	width: 200px !important;
+}
+ 
+/* USE !important */
+/* Apply/Override styles to front-page ONLY */
+.kvl-selectpicker-front {
+	width: 150px !important;
+	position: fixed !important;
+	right: 0 !important;
+	bottom: 0 !important;
+	z-index: 10000000 !important;
+	margin-right: 15px !important;
+	margin-bottom: 15px !important;
+}

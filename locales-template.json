@@ -1,0 +1,9 @@
+{
+	"_comment": "This is an example template of how to write localizations",
+	"main.title": "Dispecto",
+	"plugin.name": "Key Value Localization (KVL)",
+	"first-name": "First Name",
+	"last-name": "Last Name",
+	"tel": "Phone",
+	"address": "Street Address"
+}
